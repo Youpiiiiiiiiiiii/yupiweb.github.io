@@ -57,3 +57,14 @@ body{
     transform: translateY(230px);
 }
 
+@media only screen and (max-width: 600px) {
+    /* Gaya untuk layar berukuran 600px atau lebih kecil */
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Gaya untuk layar berukuran 601px hingga 1024px */
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    /* Gaya untuk layar berukuran 1025px atau lebih besar */
+  }
