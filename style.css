@@ -10,7 +10,6 @@ body{
     background-size: cover; /* Mengisi area dengan gambar, mempertahankan rasio aspek */
       background-position: center; /* Menengahkan gambar */
       background-repeat: no-repeat; /* Menghindari pengulangan gambar */
-      height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
